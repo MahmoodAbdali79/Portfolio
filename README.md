@@ -15,7 +15,7 @@ Aug 2022 - Aug 2023
 
 ### Data Scientist Intern @ Shenasa, Tehran
 Jul 2021 - Dec 2021
-**Face anti-spoofing**: In the internship, I developed a deep-learning model for face anti-spoofing that analyzed facial features and detected any anomalies or inconsistencies that may indicate a spoofing attempt. The model is available on [GitHub](https://github.com/MahmoodAbdali79/Face-anti-spoofing) and achieved acceptable performance metrics, providing a valuable tool for secure biometric systems.
+- **Face anti-spoofing**: In the internship, I developed a deep-learning model for face anti-spoofing that analyzed facial features and detected any anomalies or inconsistencies that may indicate a spoofing attempt. The model is available on [GitHub](https://github.com/MahmoodAbdali79/Face-anti-spoofing) and achieved acceptable performance metrics, providing a valuable tool for secure biometric systems.
 
 
 ## projects:
