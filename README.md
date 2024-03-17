@@ -29,7 +29,13 @@ Jul 2021 - Dec 2021
 | Reporting (Tableau / Power BI) | Statistics (Descriptive/Infrential )   | Ms Excel                                  |
 | Storytelling                   | Machine learning                       | hmm                                       |
 
-
+#### AA
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ## Education
 ### B.S in Computer Engineering, University of Bojnord
