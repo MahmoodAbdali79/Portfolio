@@ -6,7 +6,7 @@ data analyst @ ...
 - project 2
 
 ### Education
-#### Final project
+- #### Final project
 
 
 ### projects
