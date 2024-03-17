@@ -17,10 +17,16 @@ Jul 2021 - Dec 2021
 - **Face anti-spoofing**: In the internship, I developed a deep-learning model for face anti-spoofing that analyzed facial features and detected any anomalies or inconsistencies that may indicate a spoofing attempt. The model is available on [GitHub](https://github.com/MahmoodAbdali79/Face-anti-spoofing) and achieved acceptable performance metrics, providing a valuable tool for secure biometric systems.
 
 
-## projects:
+## projects
 ### Book Recommendation
 - I Implemented a Book Recommendation System utilizing collaborative filtering and content-based filtering algorithms to provide personalized book recommendations.
 - Utilized Python programming language and machine learning libraries such as Scikit-learn and Pandas for data analysis and model development. The project is hosted on [GitHub](https://github.com/MahmoodAbdali79/Book-Recommendation-System).
+
+## Skills
+|:-------------------------------|:---------------------------------------|:------------------------------------------|
+| SQL                            | Python, PyData tools                   | Data visualization (Matplotlib, Seaborn)  |
+| Reporting (Tableau / Power BI) | Statistics (Descriptive/Infrential )   | Ms Excel                                  |
+| Storytelling                   | Machine learning                       | hmm                                       |
 
 
 
