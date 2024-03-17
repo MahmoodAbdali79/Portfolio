@@ -1,5 +1,4 @@
-# Data Analyst
-## About Me
+# About Me
 As a data analyst, adept at uncovering actionable insights and optimizing to drive business success. Experienced in performance
 analysis, price equalizing, payment facilitating, and data crawling within dynamic environments. Proficient at PyData,
 visualization and reporting.
@@ -19,7 +18,7 @@ Jul 2021 - Dec 2021
 
 
 ## projects:
-### Final project: Book Recommendation
+### Book Recommendation
 - I Implemented a Book Recommendation System utilizing collaborative filtering and content-based filtering algorithms to provide personalized book recommendations.
 - Utilized Python programming language and machine learning libraries such as Scikit-learn and Pandas for data analysis and model development. The project is hosted on [GitHub](https://github.com/MahmoodAbdali79/Book-Recommendation-System).
 
