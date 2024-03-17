@@ -7,7 +7,7 @@ visualization and reporting.
 
 ### Business Analyst @ SnappFood, Tehran
 Aug 2022 - Aug 2023
-- **Performance Analysis**: Tracking performance metrics and keeping senior management informed on our progress toward critical objectives. Through my analysis, I have identified opportunities to streamline pick & pack operations and identify bottlenecks and areas for improvement in this service.
+> **Performance Analysis**: Tracking performance metrics and keeping senior management informed on our progress toward critical objectives. Through my analysis, I have identified opportunities to streamline pick & pack operations and identify bottlenecks and areas for improvement in this service.
 - **Price Equalizing**: Responsible for ensuring that Products are priced correctly by reporting and monitoring pricing accuracy to deliver the best possible prices to our customers.
 - **Payment Facilitating**: implementing a payment solution to simplify the payment process for vendors and the financial team. collaborating with other teams to execute this solution.
 - **Data Crawling**: based on business needs, Responsible for crawling data from various sources to ensure the success of the organization's objectives.
@@ -23,6 +23,7 @@ Jul 2021 - Dec 2021
 - Utilized Python programming language and machine learning libraries such as Scikit-learn and Pandas for data analysis and model development. The project is hosted on [GitHub](https://github.com/MahmoodAbdali79/Book-Recommendation-System).
 
 ## Skills
+| head1        | head two          | three |
 |:-------------------------------|:---------------------------------------|:------------------------------------------|
 | SQL                            | Python, PyData tools                   | Data visualization (Matplotlib, Seaborn)  |
 | Reporting (Tableau / Power BI) | Statistics (Descriptive/Infrential )   | Ms Excel                                  |
