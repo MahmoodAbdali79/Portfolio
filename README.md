@@ -23,19 +23,20 @@ Jul 2021 - Dec 2021
 - Utilized Python programming language and machine learning libraries such as Scikit-learn and Pandas for data analysis and model development. The project is hosted on [GitHub](https://github.com/MahmoodAbdali79/Book-Recommendation-System).
 
 ## Skills
-**Languages**: Python, SQL
-**Skills**: Data visualization, Reporting, Statistics (Descriptive/Inferential), Storytelling, Machine learning
-**Tools**: Pandas, Numpy, scikit-learn, Matplotlib, Seaborn, Tableau, Power BI, Ms Excel
-**Soft Skills**: Problem-Solving, Critical Thinking, Communication, Presenting, Teamwork
+**Languages**: Python, SQL  
+**Hard skills**: Data visualization, Reporting, Statistics(Descriptive/Inferential), Probability, Storytelling, Machine learning  
+**Soft Skills**: Problem-solving, Critical Thinking, Communication, Presenting, Teamwork  
+**Tools**: Pandas, Numpy, scikit-learn, Matplotlib, Seaborn, Tableau, Power BI, Ms Excel, Django, API  
+
 
 ## Education
 ### B.S in Computer Engineering, University of Bojnord
 2018 - 2023 GPA: 3.0/4
 
-## Education
-**Native**: Persian
+## Languages
+**Native**: Persian  
 **Intermediate**: English
 
 ## Hobby
-Billiards, آiking, Skating 
+Billiards, Hiking, Skating 
 
