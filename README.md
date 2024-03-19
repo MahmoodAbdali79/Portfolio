@@ -1,7 +1,5 @@
 # About Me
-As a data analyst, adept at uncovering actionable insights and optimizing to drive business success. Experienced in performance
-analysis, price equalizing, payment facilitating, and data crawling within dynamic environments. Proficient at PyData,
-visualization and reporting.
+Data Analyst with a knack for finding valuable data insights and using them to boost business results. Skilled in analyzing performance, managing prices, smoothing payments, and gathering data efficiently. Strong Python (PyData) skills for data manipulation, visualization, and clear reporting.
 
 ## Work Experience
 
