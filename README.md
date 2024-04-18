@@ -1,5 +1,5 @@
 # About Me
-Data Analyst with a knack for finding valuable data insights and using them to boost business results. Skilled in analyzing performance, managing prices, smoothing payments, and gathering data efficiently. Strong Python (PyData) skills for data manipulation, visualization, and clear reporting.
+Data Analyst with a knack for finding valuable data insights and using them to boost business results. Skilled in analyzing performance, managing prices, smoothing payments, and gathering data efficiently. Strong Python (PyData) skills for data manipulation, visualization, and clear reporting..
 
 ## Work Experience
 
