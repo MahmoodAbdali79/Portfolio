@@ -10,7 +10,7 @@ Aug 2022 - Aug 2023
 - Monitored and reported product pricing to deliver the best possible prices to our customers
 - Reduced 50% of payment time by Developing a process to facilitate payment between vendors and the financial team
 - Developed scripts to crawl data from various sources based on business needs
-- **Technologies used**: SQL, Python, Ms Excel, Tableau
+- **Technologies used**: SQL, Python, Tableau
 
 ## projects
 ### Book Recommendation
