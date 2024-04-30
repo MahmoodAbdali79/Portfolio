@@ -5,12 +5,10 @@ Data Analyst with a knack for finding valuable data insights and using them to b
 
 ### Business Analyst @ SnappFood, Tehran
 Aug 2022 - Aug 2023
-- Tracking performance metrics and keeping stakeholders informed on our
-progress toward critical objectives
-- Identified opportunities to simplify the pick-o-pack service and identified
-bottlenecks and areas for improvement in this service   
+- **Achievement**: 88% growth in orders and +100% growth in revenue in pick-o-pack service 
+- Identified opportunities to simplify the pick-o-pack service and identified bottlenecks and areas for improvement in this service. Result in 2.8% growth in average item per order   
 - Monitored and reported product pricing to deliver the best possible prices to our customers
-- Developed process to facilitate payment for vendors and financial team
+- Reduced 50% of payment time by Developing a process to facilitate payment between vendors and the financial team
 - Developed scripts to crawl data from various sources based on business needs
 - **Technologies used**: SQL, Python, Ms Excel, Tableau
 
@@ -18,7 +16,7 @@ bottlenecks and areas for improvement in this service
 ### Book Recommendation
 Jul 2021 - Dec 2021
 - Built a Book Recommendation System utilizing collaborative filtering and
-content-based filtering algorithms. The project is hosted on [GitHub](https://github.com/MahmoodAbdali79/Book-Recommendation-System).
+content-based filtering algorithms. You can test it [here](https://huggingface.co/spaces/mahmoodabdali79/Book_Recommendation).
 - **Technologies used**: Python, Pandas, Numpy, Streamlit
 
 ### Face Anti-spoofing
