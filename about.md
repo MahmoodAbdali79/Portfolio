@@ -1,5 +1,5 @@
 # About Me
-Data Analyst with a knack for finding valuable data insights and using them to boost business results. Skilled in analyzing performance, managing prices, smoothing payments, and gathering data efficiently. Strong Python (**PyData**) skills for data manipulation, visualization, and clear reporting.
+Data Analyst with a knack for finding valuable data insights and using them to boost business results. Skilled in analyzing performance, managing prices, smoothing payments, proficient in Python (PyData) with expertise in data manipulation, visualization, and producing clear reports.
 
 ## Work Experience
 
@@ -22,7 +22,7 @@ content-based filtering algorithms. You can test it **[here](https://huggingface
 
 ### Face Anti-spoofing
 Jul 2021 - Dec 2021
-- Developed a deep learning model for face anti-spoofing that analyzed facial features. The model is available on [GitHub](https://github.com/MahmoodAbdali79/Face-anti-spoofing).
+- Developed a deep learning model for face anti-spoofing that analyzed facial features. The model is available on **[GitHub](https://github.com/MahmoodAbdali79/Face-anti-spoofing)**.
 - Technologies used: Python, TensorFlow
 
 
