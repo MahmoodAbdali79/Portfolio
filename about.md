@@ -16,13 +16,13 @@ Aug 2022 - Aug 2023
 ### Book Recommendation
 Jul 2021 - Dec 2021
 - Built a Book Recommendation System utilizing collaborative filtering and
-content-based filtering algorithms. You can test it [here](https://huggingface.co/spaces/mahmoodabdali79/Book_Recommendation).
+content-based filtering algorithms. You can test it **[here](https://huggingface.co/spaces/mahmoodabdali79/Book_Recommendation)**.
+- Evaluated from the business side by A/B testing. **[read more](https://mahmoodabdali79.github.io/2024/01/04/ABtest1.html)**
 - **Technologies used**: Python, Pandas, Numpy, Streamlit
 
 ### Face Anti-spoofing
 Jul 2021 - Dec 2021
 - Developed a deep learning model for face anti-spoofing that analyzed facial features. The model is available on [GitHub](https://github.com/MahmoodAbdali79/Face-anti-spoofing).
-- Evaluated from the business side by A/B testing. [read more](https://mahmoodabdali79.github.io/2024/01/04/ABtest1.html)
 - Technologies used: Python, TensorFlow
 
 
@@ -39,9 +39,8 @@ Jul 2021 - Dec 2021
 2018 - 2023 GPA: 3.0/4
 
 ## Languages
-**Native**: Persian  
 **Intermediate**: English
 
 ## Hobby
-Billiards, Hiking, Skating 
+Billiards, Hiking, Skating
 
