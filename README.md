@@ -38,4 +38,3 @@ Jul 2021 - Dec 2021
 
 ## Hobby
 Billiards, Hiking, Skating 
-
