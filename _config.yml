@@ -7,6 +7,7 @@ github:
   is_project_page: false
   is_user_page: True
 
+open_to_work: True
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
