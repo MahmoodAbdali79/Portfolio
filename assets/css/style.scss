@@ -7,6 +7,12 @@ img {
     width: 200px;
     border-radius: 50%;
 }
+
+header {
+    display: grid;
+    place-items: center; /* Center the elements both horizontally and vertically */
+}
+
 header p {
     margin-left: 20px;
 }
@@ -21,7 +27,7 @@ h2 {
 }
 
 .SocialLink {
-    margin-left: 39px;
+    // margin-left: 39px;
     margin-bottom: 10px;
 }
 
@@ -30,9 +36,6 @@ i {
     padding-left: 8px;
 }
 
-li, p {
-    text-align: justify;
-}
 
 
 

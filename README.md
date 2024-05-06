@@ -1,38 +1,39 @@
 # About Me
-Data Analyst with a knack for finding valuable data insights and using them to boost business results. Skilled in analyzing performance, managing prices, smoothing payments, and gathering data efficiently. Strong Python (PyData) skills for data manipulation, visualization, and clear reportings.
+Data Analyst with a knack for finding valuable data insights and using them to boost business results. Skilled in analyzing performance, managing prices, smoothing payments, proficient in Python (PyData) with expertise in data manipulation, visualization, and producing clear reports.
 
 ## Work Experience
 
 ### Business Analyst @ SnappFood, Tehran
 Aug 2022 - Aug 2023
-- **Performance Analysis**: Tracking performance metrics and keeping senior management informed on our progress toward critical objectives. Through my analysis, I have identified opportunities to streamline pick & pack operations and identify bottlenecks and areas for improvement in this service.
-- **Price Equalizing**: Responsible for ensuring that Products are priced correctly by reporting and monitoring pricing accuracy to deliver the best possible prices to our customers.
-- **Payment Facilitating**: implementing a payment solution to simplify the payment process for vendors and the financial team. collaborating with other teams to execute this solution.
-- **Data Crawling**: based on business needs, Responsible for crawling data from various sources to ensure the success of the organization's objectives.
+- **Achievement**: 88% growth in orders and +100% growth in revenue in pick-o-pack service
+- Identified opportunities to simplify the pick-o-pack service and identified bottlenecks and areas for improvement in this service. Result in 2.8% growth in average item per order
+- Monitored and reported product pricing to deliver the best possible prices to our customers
+- Reduced 50% of payment time by Developing a process to facilitate payment between vendors and the financial team
+- Developed scripts to crawl data from various sources based on business needs
+- **Tools used**: Python, SQL, Tableau
 
 ### Data Science Intern @ Shenasa, Tehran
 Jul 2021 - Dec 2021
-> **Face anti-spoofing**: In the internship, I developed a deep-learning model for face anti-spoofing that analyzed facial features and detected any anomalies or inconsistencies that may indicate a spoofing attempt. The model is available on **[GitHub](https://github.com/MahmoodAbdali79/Face-anti-spoofing)** and achieved acceptable performance metrics, providing a valuable tool for secure biometric systems.
+- Developed a deep learning model for face anti-spoofing that analyzed facial features. The model is available on **[GitHub](https://github.com/MahmoodAbdali79/Face-anti-spoofing)**
+- **Tools used**: Python, TensorFlow
 
 
 ## projects
 ### Book Recommendation
-- I Implemented a Book Recommendation System utilizing collaborative filtering and content-based filtering algorithms to provide personalized book recommendations.
-- Utilized Python programming language and machine learning libraries such as Scikit-learn and Pandas for data analysis and model development. The project is hosted on **[GitHub](https://github.com/MahmoodAbdali79/Book-Recommendation-System)**.
+- Built a Book Recommendation System utilizing collaborative filtering and content-based filtering algorithms. You can test it **[here](https://huggingface.co/spaces/mahmoodabdali79/Book_Recommendation)**.
+- Evaluated from the business side by A/B testing. **[read more](https://mahmoodabdali79.github.io/2024/01/04/ABtest1.html)**
+- **Tools used**: Python, Pandas, Numpy, Streamlit
 
 ## Skills
 **Languages**: Python, SQL  
-**Hard skills**: Data visualization, Reporting, Statistics(Descriptive/Inferential), Probability, Storytelling, Machine learning  
-**Soft Skills**: Problem-solving, Critical Thinking, Communication, Presenting, Teamwork  
-**Tools**: Pandas, Numpy, scikit-learn, Matplotlib, Seaborn, Tableau, Power BI, Ms Excel, Django, API  
-
+**Hard skills**: Data visualization, Reporting, Statistics(Descriptive/Inferential), Probability, A/B testing, Machine learning  
+**Tools**: Pandas, Numpy, scikit-learn, Matplotlib, Seaborn, Tableau, Power BI, Excel, Django, API  
 
 ## Education
 ### B.S in Computer Engineering, University of Bojnord
 2018 - 2023 GPA: 3.0/4
 
 ## Languages
-**Native**: Persian  
 **Intermediate**: English
 
 ## Hobby
