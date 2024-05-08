@@ -10,7 +10,7 @@ Aug 2022 - Aug 2023
 - Monitored and reported product pricing to deliver the best possible prices to our customers
 - Reduced 50% of payment time by Developing a process to facilitate payment between vendors and the financial team
 - Developed scripts to crawl data from various sources based on business needs
-- **Tools used**: Python, SQL, Tableau
+- **Tools used**: Python, SQL, Excel, Tableau
 
 ### Data Science Intern @ Shenasa, Tehran
 Jul 2021 - Dec 2021
@@ -21,7 +21,7 @@ Jul 2021 - Dec 2021
 ## projects
 ### Book Recommendation
 - Built a Book Recommendation System utilizing collaborative filtering and content-based filtering algorithms. You can test it **[here](https://huggingface.co/spaces/mahmoodabdali79/Book_Recommendation)**.
-- Evaluated from the business side by A/B testing. **[read more](https://mahmoodabdali79.github.io/2024/01/04/ABtest1.html)**
+- Evaluated from the business side by A/B testing. **[read more](https://medium.com/@mahmoodabdali79/how-a-b-testing-can-evaluate-book-recommendations-fb11915a4f93)**
 - **Tools used**: Python, Pandas, Numpy, Streamlit
 
 ## Skills
