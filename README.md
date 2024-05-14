@@ -18,7 +18,13 @@ Jul 2021 - Dec 2021
 - **Tools used**: Python, TensorFlow
 
 
-## projects
+## Selected projects
+
+### Telco Customer Churn
+- Conducted an EDA on Telco Customer Churn to identify churn patterns, with a report published **[here](https://medium.com/@mahmoodabdali79/eda-onteleco-customer-churn-83ef49f427fc)**.
+- Developed a predictive model to identify likely customer churn; demo launched **[here](https://huggingface.co/spaces/mahmoodabdali79/Telco-Customer-Churn)** and API provided in this **[repo](https://github.com/MahmoodAbdali79/Telco-Customer-Churn)**.
+- **Tools used**: Python, Pandas, scikit-learn, Streamlit
+
 ### Book Recommendation
 - Built a Book Recommendation System utilizing collaborative filtering and content-based filtering algorithms. You can test it **[here](https://huggingface.co/spaces/mahmoodabdali79/Book_Recommendation)**.
 - Evaluated from the business side by A/B testing. **[read more](https://medium.com/@mahmoodabdali79/how-a-b-testing-can-evaluate-book-recommendations-fb11915a4f93)**
