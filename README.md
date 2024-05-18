@@ -5,11 +5,11 @@ Data Analyst with a knack for finding valuable data insights and using them to b
 
 ### Business Analyst @ SnappFood, Tehran
 Aug 2022 - Aug 2023
-- **Achievement**: 88% growth in orders and +100% growth in revenue in pick-o-pack service
-- Identified opportunities to simplify the pick-o-pack service and identified bottlenecks and areas for improvement in this service. Result in 2.8% growth in average item per order
-- Monitored and reported product pricing to deliver the best possible prices to our customers
-- Reduced 50% of payment time by Developing a process to facilitate payment between vendors and the financial team
-- Developed scripts to crawl data from various sources based on business needs
+- **Achievement**: 88% growth in orders and +100% growth in revenue in pick-o-pack service.
+- Identified opportunities to simplify the pick-o-pack service and identified bottlenecks and areas for improvement in this service. Result in 2.8% growth in average item per order.
+- Monitored and reported product pricing to ensure competitive pricing for customers.
+- Reduced 50% of payment time by Developing a process to facilitate payment between vendors and the financial team.
+- Developed scripts to crawl data from various sources based on business needs.
 - **Tools used**: Python, SQL, Excel, Tableau
 
 ### Data Science Intern @ Shenasa, Tehran
